@@ -39,3 +39,12 @@ this is a short but sweet list of some people I think who came after Infinity Wa
 
 
 *-Stan Lee*
+***
+# Code Fencing
+## SQL 1
+~~~
+SELECT column1, column 2
+FROM table_name
+
+SELECT * FROM Customers
+~~~
